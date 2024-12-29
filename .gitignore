@@ -1,0 +1,14 @@
+# Carpetas de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración locales
+.env
+
+# Archivos generados
+*.log
+*.tmp
+
+# Archivos específicos del IDE
+.idea/
+.vscode/
